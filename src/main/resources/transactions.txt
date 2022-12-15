@@ -1,0 +1,9 @@
+1|pencil|SELL|3.4
+2|notebook|SELL|10.89
+3|book|BUY|22.50
+4|desk|BUY|200
+5|TV|SELL|2780.55
+6|laptop|BUY|1900.89
+7|printer|SELL|389.90
+8|xerox|BUY|5900
+9|scanner|SELL|1500.90
